@@ -15,7 +15,7 @@
 	},
 	"peerDependencies": {
 		"deco": "^0.12.0",
-		"mongoose": "^3.8.23",
+		"mongoose": ">=3.8.23",
 		"express": "^4.12.0",
 		"baucis": "^1.0.5"
 	},
